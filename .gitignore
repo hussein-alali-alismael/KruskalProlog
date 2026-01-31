@@ -1,0 +1,9 @@
+# Editor/temp
+*.swp
+*.swo
+*.user
+.DS_Store
+Thumbs.db
+
+# Prolog temp files
+*~
